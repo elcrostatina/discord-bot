@@ -1,2 +1,2 @@
 # discord-bot
-bot that helps us manage discord channels
+bot that helps us manage our discord channels
